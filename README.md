@@ -24,7 +24,7 @@ Start the server:
 npm run dev
 ```
 
-Visit `http://localhost:3000` in your browser.
+Visit `https://suitable-kay-alexs-projects-480c4f3c.koyeb.app/` in your browser.
 
 ## Technologies
 
